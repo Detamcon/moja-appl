@@ -8,9 +8,7 @@ export const metadata = {title:" Domov | MojaAppl"};
 export default function Home() {
   return (
 
-    <Typography>
-      Domovska stranka
-    </Typography>
+    <Typography>Domovska stranka</Typography>
 
   );
 }

@@ -9,9 +9,7 @@ export const metadata = {title:" Podmienky | MojaAppl"};
 export default function TermsConditions() {
     return (
         <Box>
-            <Typography>
-                Podmienky
-            </Typography>
+            <Typography>Podmienky</Typography>
         </Box>
     );
 }

@@ -9,9 +9,7 @@ export const metadata = {title:" O mne | MojaAppl"};
 export default function About() {
     return (
         <Container>
-            <Typography>
-                O mne
-            </Typography>
+            <Typography>O mne</Typography>
         </Container>
     );
 }
