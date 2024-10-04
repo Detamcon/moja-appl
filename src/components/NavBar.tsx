@@ -30,16 +30,16 @@ export default function SimpleBottomNavigation() {
                 router.push('/'); 
                 break;
             case 1:
-                router.push('/profily');
+                router.push('/profil');
                 break;
             case 2:
-                router.push('/prispevky'); 
+                router.push('/prispevok'); 
                 break;
             case 3:
-                router.push('/prihlasenie'); 
+                router.push('/auth/prihlasenie'); 
                 break;
             case 4:
-                router.push('/registracia'); 
+                router.push('/auth/registracia'); 
                 break;
             default:
               break;
